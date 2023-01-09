@@ -30,5 +30,6 @@
 
 ### GRAND 以外
 
-#### ゲストの有無に関係なさそうなもの
-
+#### [ゲストの有無に関係なさそうなもの](each-unit.md)
+#### [ゲスト有り](each-unit-guest.md)
+#### [ゲストなし](each-unit-no-guest.md)
