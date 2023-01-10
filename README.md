@@ -3,7 +3,7 @@
 ## Scheme プログラム
 
 以下のドキュメントで計算するために使ったプログラム。
-Scheme で記述した。
+Scheme 実装 [Gauche](https://github.com/shirok/Gauche) で記述した。
 
 ## ドキュメント
 
